@@ -1,0 +1,1 @@
+This repository contains implementations of fundamental data structures using the C programming language. It covers both linear and non-linear structures with well-documented code and examples. Ideal for students, beginners, and anyone looking to strengthen their understanding of data structures in C.
